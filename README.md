@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nightworkerjs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nightworkerjs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sunkanmi-ijatuyi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sunkanmi-ijatuyi/" height="30" width="40" /></a>
+<a href="https://twitter.com/@nightworkerjs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nightworkerjs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sunkanmi-ijatuyi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sunkanmi-ijatuyi/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cloud gist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cloud gist" height="30" width="40" /></a>
 </p>
 
